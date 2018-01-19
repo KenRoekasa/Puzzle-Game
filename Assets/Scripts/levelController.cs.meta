@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1f8ba039cbd35774894113f1d30fd368
+timeCreated: 1504205348
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - theLevel: {instanceID: 0}
+  - theSphere: {fileID: 141832, guid: 44dcc08a9b9ed0440a890bc452d5f6a5, type: 2}
+  - spawnPoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
